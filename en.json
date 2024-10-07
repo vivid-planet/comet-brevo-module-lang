@@ -86,10 +86,12 @@
   "cometBrevoModule.targetGroups.TargetGroup": "Target group",
   "cometBrevoModule.targetGroups.editTargetGroup": "Edit target group",
   "cometBrevoModule.targetGroups.targetGroups": "Target groups",
+  "cometBrevoModule.useContactImport.error.contactsCouldNotBeImported": "{amount} contact(s) could not be imported. <link>Download this file</link> to get the failing row(s).",
   "cometBrevoModule.useContactImport.error.defaultMessage": "An error occured during the import. Please try again in a while or contact your administrator if the error persists.",
-  "cometBrevoModule.useContactImport.error.tooManyContactsMessage": "Too many contacts in file. Currently we only support 100 contacts at once.",
+  "cometBrevoModule.useContactImport.importSuccessful.contactsImported": "{amount} contact(s) have been created successfully.",
+  "cometBrevoModule.useContactImport.importSuccessful.contactsUpdated": "{amount} contact(s) have been updated.",
   "cometBrevoModule.useContactImport.importSuccessful.doiNotice": "Contacts who have not yet confirmed their subscription will receive a double opt-in email to complete the process. These contacts will not appear in this list until they confirm their subscription. Once confirmed, they will automatically be added to the appropriate target group(s).",
-  "cometBrevoModule.useContactImport.importSuccessful.message": "The contacts have been imported successfully",
   "cometBrevoModule.useContactImport.importSuccessful.title": "Import successful",
-  "cometBrevoModule.useContactImport.importing.title": "Importing contacts from CSV..."
+  "cometBrevoModule.useContactImport.importing.title": "Importing contacts from CSV...",
+  "export": "No failed columns to save"
 }
